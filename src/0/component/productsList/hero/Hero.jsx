@@ -1,5 +1,5 @@
 const Hero = ({ productName }) => {
-  let heroUrl = `http://localhost:5173/sharadmusic/assets/cover/${productName}.jpg`;
+  let heroUrl = `https://ashgole.github.io/sharadmusic/assets/cover/${productName}.jpg`;
   return (
     <div className="h-96 flex justify-center items-center">
       <div

@@ -13,7 +13,8 @@ const Hero = () => {
         </div>
          <div className="h-1/2 md:h-full w-full md:w-1/2 flex flex-col justify-center items-center p-2">
             <p className="titleFont">Sharad Music Store</p>
-            <p className="subTitleFont">1.0.0 Explore a vast collection of music at our store – a harmonious blend of genres awaits. Find your favorite tunes and discover new melodies for every mood. Shop now!</p>
+            <p className="subTitleFont">Explore a vast collection of music at our store – a harmonious blend of genres awaits. Find your favorite tunes and discover new melodies for every mood. Shop now!</p>
+            <p>1.0.0</p>
          </div>
        </div>
     </div>
