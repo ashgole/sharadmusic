@@ -1,8 +1,8 @@
-10-2-24 last update - gh pages added
-
-https://github.com/ashgole/sharadmusic/tree/master
-
 # This Project is only for educationl purpose
+
+# Project live URL
+https://ashgole.github.io/sharadmusic/
+
 
 # Tags
 
