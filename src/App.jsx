@@ -6,9 +6,9 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/sharadmusic/" element={<Home />} />
+        <Route path="/sharadmusic/home" element={<Home />} />
         <Route path="/sharadmusic/list/:productname" element={<Products />} />
-        <Route path="/*" element={<NotFound />} />
+        <Route path="/sharadmusic/*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>
   );
