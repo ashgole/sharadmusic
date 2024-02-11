@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "productName": "guitar",
+      "productUrl": "http://localhost:5173/assets/images/guitar2.jpg",
+      "productDescription": "An iconic six-string instrument, perfect for aspiring musicians and seasoned players alike.",
+      "productCost": "$299.99"
+    },
+    {
+      "productName": "violin",
+      "productUrl": "http://localhost:5173/assets/images/violin.jpg",
+      "productDescription": "Elegant and versatile, the violin brings classical charm and modern appeal to your musical journey.",
+      "productCost": "$199.99"
+    },
+    {
+      "productName": "piano",
+      "productUrl": "http://localhost:5173/assets/images/piano.jpg",
+      "productDescription": "A grand piano for grand performances. Elevate your musical experience with timeless elegance.",
+      "productCost": "$899.99"
+    },
+    {
+      "productName": "tabla",
+      "productUrl": "http://localhost:5173/assets/images/tabla.jpg",
+      "productDescription": "Experience the rich tradition of Indian percussion with the exquisite craftsmanship of the tabla.",
+      "productCost": "$129.99"
+    },
+    {
+      "productName": "flute",
+      "productUrl": "http://localhost:5173/assets/images/flute.jpg",
+      "productDescription": "Embrace the enchanting tones of the flute, a classic instrument for soulful melodies and calming tunes.",
+      "productCost": "$79.99"
+    }
+  ],
+  "guitar": [
+    {
+      "productName": "Acoustic Guitar",
+      "productUrl": "http://localhost:5173/assets/images/guitar2.jpg",
+      "productDescription": "Experience the warm and rich tones of an acoustic guitar, perfect for solo performances and campfire jams.",
+      "productCost": "$299.99"
+    },
+    {
+      "productName": "Electric Guitar",
+      "productUrl": "http://localhost:5173/assets/images/guitar2.jpg",
+      "productDescription": "Unleash your creativity with the electrifying sound of an electric guitar, ideal for rock, blues, and more.",
+      "productCost": "$399.99"
+    },
+    {
+      "productName": "Bass Guitar",
+      "productUrl": "http://localhost:5173/assets/images/guitar2.jpg",
+      "productDescription": "Groove to the rhythm with the deep and powerful tones of a bass guitar, essential for any band or ensemble.",
+      "productCost": "$499.99"
+    },
+    {
+      "productName": "Classical Guitar",
+      "productUrl": "http://localhost:5173/assets/images/guitar2.jpg",
+      "productDescription": "Explore the timeless beauty of classical music with the soothing melodies of a classical guitar, adorned with nylon strings.",
+      "productCost": "$349.99"
+    }
+  ],
+  "violin": [
+    {
+      "productName": "Acoustic Violin",
+      "productUrl": "http://localhost:5173/assets/images/violin.jpg",
+      "productDescription": "Experience the rich and resonant sound of an acoustic violin, perfect for classical performances and orchestral arrangements.",
+      "productCost": "$499.99"
+    },
+    {
+      "productName": "Electric Violin",
+      "productUrl": "http://localhost:5173/assets/images/violin.jpg",
+      "productDescription": "Dive into the world of modern music with the versatility and expressiveness of an electric violin, suitable for various genres and stage performances.",
+      "productCost": "$699.99"
+    },
+    {
+      "productName": "Baroque Violin",
+      "productUrl": "http://localhost:5173/assets/images/violin.jpg",
+      "productDescription": "Explore the historical charm and authenticity of a baroque violin, meticulously crafted to recreate the sound of the past.",
+      "productCost": "$899.99"
+    },
+    {
+      "productName": "Fiddle",
+      "productUrl": "http://localhost:5173/assets/images/violin.jpg",
+      "productDescription": "Immerse yourself in the folk and country music traditions with the spirited sound of a fiddle, perfect for lively performances and traditional tunes.",
+      "productCost": "$399.99"
+    }
+  ],
+  "piano": [
+    {
+      "productName": "Grand Piano",
+      "productUrl": "http://localhost:5173/assets/images/piano.jpg",
+      "productDescription": "Experience the majestic sound and exquisite craftsmanship of a grand piano, the epitome of elegance and musical excellence.",
+      "productCost": "$8999.99"
+    },
+    {
+      "productName": "Upright Piano",
+      "productUrl": "http://localhost:5173/assets/images/piano.jpg",
+      "productDescription": "Discover the compact yet powerful sound of an upright piano, perfect for home practice and intimate performances.",
+      "productCost": "$4999.99"
+    },
+    {
+      "productName": "Digital Piano",
+      "productUrl": "http://localhost:5173/assets/images/piano.jpg",
+      "productDescription": "Explore the versatility and modern features of a digital piano, offering a wide range of sounds and advanced functionality.",
+      "productCost": "$1999.99"
+    },
+    {
+      "productName": "Baby Grand Piano",
+      "productUrl": "http://localhost:5173/assets/images/piano.jpg",
+      "productDescription": "Bring the elegance of a grand piano to smaller spaces with the charming beauty of a baby grand piano, perfect for intimate settings and stylish décor.",
+      "productCost": "$5999.99"
+    }
+  ],
+  "tabla": [
+    {
+      "productName": "Classical Tabla Set",
+      "productUrl": "http://localhost:5173/assets/images/tabla.jpg",
+      "productDescription": "Experience the rich tradition and intricate rhythms of classical Indian music with this authentic tabla set.",
+      "productCost": "$299.99"
+    },
+    {
+      "productName": "Professional Tabla Set",
+      "productUrl": "http://localhost:5173/assets/images/tabla.jpg",
+      "productDescription": "Perfect for seasoned performers and serious enthusiasts, this professional tabla set offers exceptional sound quality and craftsmanship.",
+      "productCost": "$499.99"
+    },
+    {
+      "productName": "Beginner Tabla Set",
+      "productUrl": "http://localhost:5173/assets/images/tabla.jpg",
+      "productDescription": "Start your tabla journey with this high-quality beginner set, designed for ease of use and learning.",
+      "productCost": "$199.99"
+    },
+    {
+      "productName": "Tabla Drum",
+      "productUrl": "http://localhost:5173/assets/images/tabla.jpg",
+      "productDescription": "Add depth and texture to your music with this versatile tabla drum, suitable for both traditional and contemporary styles.",
+      "productCost": "$99.99"
+    }
+  ],
+  "flute": [
+    {
+      "productName": "Wooden Flute",
+      "productUrl": "http://localhost:5173/assets/images/flute.jpg",
+      "productDescription": "Crafted from high-quality wood, this flute produces warm and mellow tones, ideal for traditional and folk music.",
+      "productCost": "$199.99"
+    },
+    {
+      "productName": "Silver Flute",
+      "productUrl": "http://localhost:5173/assets/images/flute.jpg",
+      "productDescription": "Elegant and refined, this silver flute offers crystal-clear sound and precise intonation, perfect for classical and orchestral performances.",
+      "productCost": "$499.99"
+    },
+    {
+      "productName": "Bamboo Flute",
+      "productUrl": "http://localhost:5173/assets/images/flute.jpg",
+      "productDescription": "Experience the soothing melodies of this traditional bamboo flute, handcrafted for authenticity and charm.",
+      "productCost": "$99.99"
+    },
+    {
+      "productName": "Professional Concert Flute",
+      "productUrl": "http://localhost:5173/assets/images/flute.jpg",
+      "productDescription": "Designed for professional musicians, this concert flute delivers unparalleled sound quality, responsiveness, and versatility.",
+      "productCost": "$999.99"
+    }
+  ]
+  }
