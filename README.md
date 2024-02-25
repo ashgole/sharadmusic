@@ -11,5 +11,5 @@ https://ashgole.github.io/sharadmusic/
 ***
 # Screenshots
 ![alt text](https://github.com/ashgole/ReactJS-Django-Weather-App/blob/main/screenshots/1.png)
-![Screenshots 1](https://github.com/ashgole/sharadmusic/tree/main/public/screenshots/1.png)
+![Screenshots 1](https://github.com/ashgole/sharadmusic/blob/main/public/screenshots/1.png)
 ![Screenshots 1](https://github.com/ashgole/sharadmusic/tree/main/public/screenshots/2.png)
